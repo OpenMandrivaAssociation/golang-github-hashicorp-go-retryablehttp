@@ -1,0 +1,5 @@
+import:
+- package: github.com/hashicorp/go-cleanhttp
+  version: ad28ea4487f05916463e2423a55166280e8254b5
+package: github.com/hashicorp/go-retryablehttp
+
